@@ -1,4 +1,4 @@
-# Optimizers-analysis-on-predicting-diabetes-using-Logistic-Regression
+# Optimizers analysis on predicting diabetes using Logistic Regression
 
 ## This repository also includes a research report analyzing the effectiveness of different optimizers applied to a Logistic Regression model for predicting diabetes.
 
