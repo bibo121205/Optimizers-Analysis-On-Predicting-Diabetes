@@ -10,4 +10,4 @@ The study covers:
 - Use of regularization techniques including L2 Regularization and Early Stopping
 - Evaluation on the BRFSS2015 dataset
 
-📄 [View the Full Report (PDF)](report/Reports.pdf)
+ View the [Full Report](report/Reports.pdf)
